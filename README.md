@@ -29,3 +29,5 @@ git merge orign/Joke
 so for , the file on the orign/joke add to the testing branch.
 
 next I delete the joke branch. 
+
+git push --delete Joke
